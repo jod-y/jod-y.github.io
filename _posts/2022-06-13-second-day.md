@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 2nd day: ultimaker Cura and Thingiverse
-tags: Hydrogen
 date: 2022-05-31
 ---
 
