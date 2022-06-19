@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2nd day: ultimaker Cura and Thingiverse
-date: 2022-05-31
+title: 2nd day
+date: 2022-05-30
 ---
 
 My second day as an intern at the DFS.  
