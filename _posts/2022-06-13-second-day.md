@@ -2,6 +2,7 @@
 layout: post
 title: 2nd day
 date: 2022-05-30
+tags: ultimaker Cura, Blender
 ---
 
 My second day as an intern at the DFS.  
